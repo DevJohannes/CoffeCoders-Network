@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Lorem Ipsum",
+        "description": "Lorem Ipsum is simply dummy idk.",
+        "tags": [],
+        "date": "05-03-2024",
+        "likes":0,
+        "author":"RandomGuy123"
+    },
+    {
+        "id": 2,
+        "title": "Lorem Ipsum",
+        "description": "Fortnite is a cool Game",
+        "tags": [],
+        "date": "04-29-2024",
+        "likes":0,
+        "author":"RandomGuy123"
+    },
+    {
+        "id": 3,
+        "title": "Bla bla bla bla bla?",
+        "description": "What do you guys think, is the best language for beginners?",
+        "tags": [],
+        "date": "05-09-2024",
+        "likes":0,
+        "author":"RandomGuy123"
+    }
+]
